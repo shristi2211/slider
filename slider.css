@@ -85,25 +85,25 @@ body {
     z-index: 2;
     opacity: 0.0;
     left: 60%;
-    transform: translate(-50%, -50%) rotateY(-10deg) translateZ(-200px);
+    transform: translate(-50%, -50%) rotateY(-10deg) translateZ(-250px);
 }
 .box:nth-of-type(8) {
     z-index: 2;
     opacity: 0.25;
     left: 35%;
-    transform: translate(-50%, -50%) rotateY(-10deg) translateZ(-150px);
+    transform: translate(-50%, -50%) rotateY(-10deg) translateZ(-300px);
 }
 
 .box:nth-of-type(9) {
     z-index: 2;
     opacity: 0.0;
     left: 40%;
-    transform: translate(-50%, -50%) rotateY(-10deg) translateZ(-200px);
+    transform: translate(-50%, -50%) rotateY(-10deg) translateZ(-350px);
 }
 
 .box:nth-of-type(10) {
     z-index: 2;
     opacity: 0.0;
     left: 60%;
-    transform: translate(-50%, -50%) rotateY(-10deg) translateZ(-200px);
+    transform: translate(-50%, -50%) rotateY(-10deg) translateZ(-400px);
 }
